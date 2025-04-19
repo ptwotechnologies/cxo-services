@@ -16576,3 +16576,6 @@ li.trackback {
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1);
 }
+.about-logo a img {
+  background-color: #c5c5c5;
+}
