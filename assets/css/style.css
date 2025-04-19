@@ -16568,3 +16568,11 @@ li.trackback {
 [dir='rtl'] .product-intro-card .intro-card-details {
   text-align: end;
 }
+.breadcumb-thumb img {
+  border-radius: 12px;
+  /* transition: all 0.1s; */
+}
+.breadcumb-thumb img:hover {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
